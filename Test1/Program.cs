@@ -17,7 +17,7 @@ namespace Test1
 			var s = "";
 		}
 
-		static void test6()
+		static void test6_d()
 		{
 			var d = "";
 		}
