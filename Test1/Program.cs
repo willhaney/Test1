@@ -22,5 +22,11 @@ namespace Test1
 			var d = "";
 		}
 
+		static void test_z1()
+		{
+			var d = "";
+		}
+
+
 	}
 }
