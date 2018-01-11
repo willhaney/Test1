@@ -14,7 +14,7 @@ namespace Test1
 
 		static void test2()
 		{
-
+			var s = "";
 		}
 
 		static void test1()
