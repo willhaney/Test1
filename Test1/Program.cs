@@ -11,5 +11,11 @@ namespace Test1
 		static void Main(string[] args)
 		{
 		}
+
+		static void test1()
+		{
+
+		}
+
 	}
 }
