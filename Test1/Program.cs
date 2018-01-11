@@ -12,12 +12,12 @@ namespace Test1
 		{
 		}
 
-		static void test4()
+		static void test5()
 		{
 			var s = "";
 		}
 
-		static void test3()
+		static void test6()
 		{
 			var d = "";
 		}
