@@ -12,7 +12,7 @@ namespace Test1
 		{
 		}
 
-		static void test5()
+		static void test5_1()
 		{
 			var s = "";
 		}
