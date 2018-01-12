@@ -10,23 +10,15 @@ namespace Test1
 	{
 		static void Main(string[] args)
 		{
+			var s = System.Configuration.ConfigurationManager.AppSettings["test"];
+			Console.WriteLine(s);
+			Console.ReadLine();
 		}
 
 		static void test5_1()
 		{
 			var s = "";
 		}
-
-		static void test6_d()
-		{
-			var d = "";
-		}
-
-		static void test_z1()
-		{
-			var d = "";
-		}
-
 
 	}
 }
